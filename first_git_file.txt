@@ -1,2 +1,3 @@
 running python git
 and updated file1
+adding and commit & Push the files
